@@ -17,7 +17,9 @@
     "contact": "Contact",
     "newsletter": "Nieuwsbrief",
     "login": "Inloggen",
-    "language": "Taal"
+    "language": "Taal",
+    "menu": "Menu",
+    "closeMenu": "Menu sluiten"
   },
   "footer": {
     "tagline": "Nieuws, cultuur & gemeenschap · Rotterdam, Nederland",

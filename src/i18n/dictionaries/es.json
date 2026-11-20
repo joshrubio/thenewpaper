@@ -17,7 +17,9 @@
     "contact": "Contacto",
     "newsletter": "Newsletter",
     "login": "Acceder",
-    "language": "Idioma"
+    "language": "Idioma",
+    "menu": "Menú",
+    "closeMenu": "Cerrar menú"
   },
   "footer": {
     "tagline": "Noticias, cultura y comunidad · Róterdam, Países Bajos",

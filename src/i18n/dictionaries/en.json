@@ -17,7 +17,9 @@
     "contact": "Contact",
     "newsletter": "Newsletter",
     "login": "Login",
-    "language": "Language"
+    "language": "Language",
+    "menu": "Menu",
+    "closeMenu": "Close menu"
   },
   "footer": {
     "tagline": "News, culture & community · Rotterdam, Netherlands",
